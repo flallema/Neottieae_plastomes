@@ -1,0 +1,8 @@
+taille_sequences 151 
+version_illumina 1.5 
+paired paired 
+qualite_mini 30 
+moyenne_mini 30 
+taille_mini 30 
+limit_score(>=) 3 
+max_nbN_accepte 0 
